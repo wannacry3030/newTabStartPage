@@ -2,3 +2,202 @@ bg: 0B1618
 color1: D4B14D
 color2: 58936D
 color3: 407465
+
+favoritos
+
+[
+  {
+    "title": "Design",
+    "links": [
+      {
+        "label": "Unsplash",
+        "value": "https://unsplash.com/"
+      },
+      {
+        "label": "UI faces",
+        "value": "https://www.uifaces.co/"
+      },
+      {
+        "label": "Squoosh",
+        "value": "https://squoosh.app/"
+      },
+      {
+        "label": "Open color",
+        "value": "https://yeun.github.io/open-color/"
+      },
+      {
+        "label": "Hero icons",
+        "value": "https://heroicons.com/"
+      },
+      {
+        "label": "Tint and shade generator",
+        "value": "https://maketintsandshades.com/"
+      },
+      {
+        "label": "Coolors",
+        "value": "https://coolors.co/"
+      },
+      {
+        "label": "Svg wave maker",
+        "value": "https://svgwave.in/"
+      },
+      {
+        "label": "Border radius maker",
+        "value": "https://www.cssmatic.com/border-radius"
+      },
+      {
+        "label": "A.I playground",
+        "value": "https://playgroundai.com/create"
+      }
+    ]
+  },
+  {
+    "title": "Desenvolvimento",
+    "links": [
+      {
+        "label": "Js Chimp",
+        "value": "https://jschimp.com/"
+      },
+      {
+        "label": "Remote jobs",
+        "value": "https://weworkremotely.com/"
+      },
+      {
+        "label": "Javascript jobs",
+        "value": "https://javascript.jobs/junior-jobs"
+      },
+      {
+        "label": "Wellfound jobs",
+        "value": "https://wellfound.com/jobs"
+      },
+      {
+        "label": "Codepen",
+        "value": "https://codepen.io/"
+      },
+      {
+        "label": "Quanto cobrar?",
+        "value": "https://blog.locaweb.com.br/temas/codigo-aberto/como-cobrar-pelo-seu-servico-de-freelancer-em-desenvolvimento/"
+      },
+      {
+        "label": "Diagram maker",
+        "value": "https://www.diagrams.net/"
+      },
+      {
+        "label": "A.I tools",
+        "value": "https://www.futuretools.io/"
+      },
+      {
+        "label": "UIverse",
+        "value": "https://uiverse.io/"
+      },
+      {
+        "label": "Adobe stock",
+        "value": "https://stock.adobe.com/br/"
+      }
+    ]
+  },
+  {
+    "title": "3D Modelling",
+    "links": [
+      {
+        "label": "acunetix",
+        "value": "http://testphp.vulnweb.com/login.php"
+      },
+      {
+        "label": "BlenderGuru",
+        "value": "https://www.blenderguru.com/"
+      },
+      {
+        "label": "Poliigon",
+        "value": "https://www.poliigon.com/"
+      },
+      {
+        "label": "Blender tutorial",
+        "value": "https://www.youtube.com/watch?v=NyJWoyVx_XI&list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U"
+      },
+      {
+        "label": "The other Blender tutorial",
+        "value": "https://www.youtube.com/watch?v=bpvh-9H8S1g&list=PL8eKBkZzqDiU-qcoaghCz04sMitC1yx6k&index=1"
+      }
+    ]
+  },
+  {
+    "title": "Social",
+    "links": [
+      {
+        "label": "r/salads",
+        "value": "https://www.reddit.com/r/salads/"
+      },
+      {
+        "label": "r/reddit",
+        "value": "https://www.reddit.com/"
+      },
+      {
+        "label": "whatsapp",
+        "value": "https://web.whatsapp.com/"
+      },
+      {
+        "label": "LinkedIn",
+        "value": "https://www.linkedin.com/in/lucas-olvra/"
+      }
+    ]
+  },
+  {
+    "title": "Music",
+    "links": [
+      {
+        "label": "i wanna be a cowboy",
+        "value": "https://www.youtube.com/watch?v=8zWz92f_HGs"
+      },
+      {
+        "label": "let the bodies hit the floor",
+        "value": "https://www.youtube.com/watch?v=b--VKaCB9u0"
+      },
+      {
+        "label": "Nobody Kanna Cross It",
+        "value": "https://www.youtube.com/watch?v=2wqTnwJGvtc"
+      },
+      {
+        "label": "Smug Dancin",
+        "value": "https://www.youtube.com/watch?v=eNZ9Od1jQ4Q"
+      },
+      {
+        "label": "Utamaru - The Sanctified Mind Cover",
+        "value": "https://www.youtube.com/watch?v=MHlJKLlS07U"
+      }
+    ]
+  },
+  {
+    "title": "Kali Linux",
+    "links": [
+      {
+        "label": "Wifi Driver",
+        "value": "https://nooblinux.com/how-to-enable-monitor-mode-on-tp-link-tl-wn722n-v2-v3/"
+      },
+      {
+        "label": "Como criar sorte",
+        "value": "https://www.swyx.io/create-luck/"
+      },
+      {
+        "label": "hacker manifesto",
+        "value": "https://faculty.weber.edu/apainter1/Readings/Manifesto.pdf"
+      },
+      {
+        "label": "Wave Animation - mburakerman",
+        "value": "https://codepen.io/mburakerman/pen/eRZZEv"
+      },
+      {
+        "label": "hacktricks",
+        "value": "https://book.hacktricks.xyz/welcome/readme"
+      },
+      {
+        "label": "hackers arise",
+        "value": "https://www.hackers-arise.com/"
+      },
+      {
+        "label": "kali net hunter",
+        "value": "https://hspcx.blogspot.com/2020/05/instalando-kali-net-hunter-no-termux.html"
+      }
+    ]
+  }
+]
