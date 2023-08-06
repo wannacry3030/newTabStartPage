@@ -1,0 +1,4 @@
+bg: 0B1618
+color1: D4B14D
+color2: 58936D
+color3: 407465
